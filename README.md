@@ -1,2 +1,3 @@
 # 30april
-just playing
+just playing,
+learning phase is still going on
